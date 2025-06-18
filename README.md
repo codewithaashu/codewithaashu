@@ -1,96 +1,75 @@
-### 👨‍💻 About Me
-I’m **Ashish Ranjan**, a 💖 Full Stack Dev 👨‍💻 with a 📚 foundation in 💻 Apps and a 🚀 drive for building 🌐 apps. I specialize in **MERN Stack** 🧱, crafting 📱 responsive, ⚡ high-performance UIs.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codewithaashu/codewithaashu/main/assets/github-banner.png" alt="Ashish Ranjan GitHub Banner" />
+</p>
 
-With 🛠️ hands-on experience at 🏢 Fealty Tech and 🎯 personal projects, I blend 🧠 **tech skills**, 🧩 **real-world logic**, and 🤝 **teamwork** to build clean, scalable, and user-friendly 🧑‍💻 solutions.
+<h1 align="center">Hi there, I'm Ashish Ranjan 👋</h1>
 
----
+<p align="center">
+  💻 Full Stack Developer | 🎓 MCA Student | 🌐 MERN Stack Enthusiast
+</p>
 
-### 🎓 Education
-
-**🎓 MCA**  
-🏫 *LNCT Uni, Bhopal*  
-🗓️ Sept '23 – June '25  
-📊 CGPA: 8.28
-
-**🎓 BCA**  
-🏫 *IMS, Noida*  
-🗓️ Oct '20 – Aug '23  
-📊 Grade: 73.40%
+<p align="center">
+  <a href="mailto:codewithaashu1@gmail.com"><img src="https://img.shields.io/badge/Email-codewithaashu1@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/ashishranjan1626/"><img src="https://img.shields.io/badge/LinkedIn-AshishRanjan-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/codewithaashu"><img src="https://img.shields.io/badge/GitHub-codewithaashu-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/u/codewithaashu/"><img src="https://img.shields.io/badge/LeetCode-codewithaashu-orange?style=for-the-badge&logo=leetcode"></a>
+</p>
 
 ---
 
-### 🧠 Skills
+### 🧑‍💻 About Me
 
-**🧾 Languages:**  
-☕ Java, ✨ JS
-
-**🖼️ Frontend:**  
-🧱 HTML, 🎨 CSS, ⚛️ React, 🔜 Next.js, 💨 Tailwind, 🔺 Angular, 📱 RN (Basic)
-
-**⚙️ Backend:**  
-🟩 Node.js, 🚂 Express, 🔁 REST, 🕸️ GraphQL, 🍃 MongoDB, 🐬 MySQL
-
-**🧰 Tools:**  
-🐙 GitHub, 📋 Jira, ☁️ Cloudinary, 🌩️ AWS, 📦 Strapi, 📊 HyGraph, 📮 Postman, 🖥️ VS Code
-
-**🧬 Concepts:**  
-🧱 OOP, 🧑‍💻 SE, 💿 OS, 🌐 Networks
+- 🌱 MCA student at LNCT University (2023–2025) | CGPA: 8.28
+- 🧠 Solved 1000+ DSA problems on Leetcode and GFG
+- 🛠️ Tech Stack: MERN, GraphQL, Tailwind CSS, REST, JWT, Cloudinary, Razorpay
+- 🥈 2nd Place – Startup Idea Pitch @ LNCT
+- ⚡ Currently working on scalable full-stack web apps and personal projects
 
 ---
 
-### 💼 Experience
+### 🛠️ Tech Stack
 
-**👨‍💻 SWE Intern @ Fealty Tech**  
-📍 Indore | 🗓️ Jan–June '23  
-- 🛠️ Built 3 live 🌍 projects w/ **React.js** & **Next.js**  
-- 🚀 Improved UI/UX performance 🖥️📱  
-- 🧑‍🤝‍🧑 Agile team contributor 👥  
-- 🎯 Learned Angular & RN hands-on
-
----
-
-### 🚀 Projects
-
-#### 🔹 🎯 TNP Connect
-🗓️ Sept–Nov '24  
-**Stack:** 🟩 MERN, 💨 Tailwind, 🧩 Schadcn UI, 📧 Nodemailer, ☁️ Cloudinary  
-🔗 [🌐](https://tnp-connect.vercel.app/) | [💻](https://github.com/codewithaashu/lnctCampus)  
-- 🤖 Automated placement 🧾 tasks  
-- 🔐 Role-based access & 📧 automation  
-- 🧑‍🎓 Real-time student updates 📡
-
-#### 🔹 📸 FunBook
-🗓️ Apr–May '24  
-**Stack:** ⚛️ React, 🔁 Redux, 🟩 Node, 🍃 Mongo, 🚂 Express, 🔐 JWT, 📡 Socket.IO  
-🔗 [🌐](https://funnbook.vercel.app/) | [💻](https://github.com/codewithaashu/Social-Media-Client)  
-- 🔐 OAuth/JWT login & 🛡️ security  
-- 🔔 Real-time notifications 📲  
-- ⬆️ Media uploads via ☁️ Cloudinary
-
-#### 🔹 🚗 Car Rental Platform
-🗓️ Nov–Dec '23  
-**Stack:** ⚛️ React, 🔜 Next, 🕸️ GraphQL, 💨 Tailwind, 💠 Daisy UI, 💳 Razorpay, ☁️ Cloudinary, 📊 HyGraph  
-🔗 [🌐](https://carlands.vercel.app/) | [💻](https://github.com/codewithaashu/car-rental)  
-- 🧩 Built responsive rental 🛻 system  
-- 📈 Used CMS, payments, media API  
-- ⏱️ 30% faster load ⬇️ & 20% ⏳ payment boost
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🏆 Achievements
+### 🚀 Featured Projects
 
-- 🧠 Solved **1000+** 🧩 DSA probs on 🐱 GFG & 🟠 LeetCode  
-- 🥈 2nd – 🚀 Startup Pitch @ LNCT  
-- 🥇 1st – 👨‍💻 Code-A-Holic Contest  
-- 📈 Top performer in 🏫 & tech challenges
+#### 🎯 TNP Connect
+> A role-based placement management system for colleges.
+- 🔗 [Live Demo](https://tnp-connect.vercel.app/) | [Source Code](https://github.com/codewithaashu/lnctCampus)
+
+#### 📸 FunBook
+> Full-stack social media app with real-time notifications and chat.
+- 🔗 [Live Demo](https://funnbook.vercel.app/) | [Source Code](https://github.com/codewithaashu/Social-Media-Client)
+
+#### 🚗 Car Rental Platform
+> A scalable car rental system using Razorpay, Hygraph & Cloudinary.
+- 🔗 [Live Demo](https://carlands.vercel.app/) | [Source Code](https://github.com/codewithaashu/car-rental)
 
 ---
 
-### 📬 Contact
+### 📊 GitHub Stats
 
-📧: [codewithaashu1@gmail.com](mailto:codewithaashu1@gmail.com)  
-📱: +91 7371986179  
-🌐: [me-ashish.vercel.app](https://me-ashish.vercel.app/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithaashu&show_icons=true&theme=react" alt="Ashish's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithaashu&theme=react" alt="Ashish's GitHub streak" />
+</p>
 
-**🔗 Connect:**  
-[💼 LinkedIn](https://www.linkedin.com/in/ashishranjan1626/) | [🐱 GitHub](https://github.com/codewithaashu) | [🟠 LeetCode](https://leetcode.com/u/codewithaashu/) | [📗 GFG](https://www.geeksforgeeks.org/user/codewithaashu/) | [🎯 HackerRank](https://www.hackerrank.com/profile/codewithaashu1)
+---
+
+### 📫 Let's Connect!
+
+📬 Email: [codewithaashu1@gmail.com](mailto:codewithaashu1@gmail.com)  
+🌐 Portfolio: [me-ashish.vercel.app](https://me-ashish.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/ashishranjan1626/) | 🐱 [GitHub](https://github.com/codewithaashu) | 🟠 [LeetCode](https://leetcode.com/u/codewithaashu/) | 📘 [GFG](https://www.geeksforgeeks.org/user/codewithaashu/) | 🏅 [HackerRank](https://www.hackerrank.com/profile/codewithaashu1)
+
+---
+
+> ⭐ If you like my work, consider giving a star!
