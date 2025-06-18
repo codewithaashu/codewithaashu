@@ -1,5 +1,3 @@
-![Ashish Ranjan GitHub Banner](https://raw.githubusercontent.com/codewithaashu/codewithaashu/main/assets/github-banner.png)
-
 ### 👨‍💻 About Me
 I’m **Ashish Ranjan**, a 💖 Full Stack Dev 👨‍💻 with a 📚 foundation in 💻 Apps and a 🚀 drive for building 🌐 apps. I specialize in **MERN Stack** 🧱, crafting 📱 responsive, ⚡ high-performance UIs.
 
