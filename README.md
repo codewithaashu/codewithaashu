@@ -89,11 +89,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codewithaashu/codewithaashu/main/assets/hackerrank-certifications.png" width="48%" />
-  <img src="https://raw.githubusercontent.com/codewithaashu/codewithaashu/main/assets/gfg-profile.png" width="48%" />
-</p>
-
 ---
 
 ### 🚀 Featured Projects
