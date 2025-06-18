@@ -89,14 +89,6 @@
 </p>
 
 ---
-### 👨‍💻 LeetCode Activity
-<p align="center">
-  <a href="https://leetcode.com/u/codewithaashu/">
-    <img src="https://leetcard.jacoblin.cool/codewithaashu?theme=dark&font=Noto%20Sans%20JP&ext=activity" alt="Leetcode activity">
-  </a>
-</p>
-
----
 
 ### 🚀 Featured Projects
 
