@@ -52,6 +52,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### 🛠 Backend
 
@@ -146,4 +147,4 @@
 
 ---
 
-> ⭐ If you like my work, consider giving a star!
+> ⭐ If you like my work, consider giving a star and follow me!
