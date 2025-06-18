@@ -36,10 +36,11 @@
 
 #### 🗣 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 
 #### 🎨 Frontend
 
@@ -61,11 +62,11 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### ⚙️ DevOps / Hosting
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
 #### 🧰 Tools
@@ -73,7 +74,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 ---
 
@@ -94,17 +95,21 @@
 
 ### 🚀 Featured Projects
 
-- **TNP Connect** – Placement management system for colleges  
-  🔗 [Live](https://tnp-connect.vercel.app/) | [Code](https://github.com/codewithaashu/lnctCampus)
+#### 🎯 TNP Connect
+> A role-based placement management system for colleges.  
+🔗 [Live Demo](https://tnp-connect.vercel.app/) | [Source Code](https://github.com/codewithaashu/lnctCampus)
 
-- **FunBook** – Full-stack social media app with real-time chat  
-  🔗 [Live](https://funnbook.vercel.app/) | [Code](https://github.com/codewithaashu/Social-Media-Client)
+#### 📸 FunBook
+> Full-stack social media app with real-time notifications and chat.  
+🔗 [Live Demo](https://funnbook.vercel.app/) | [Source Code](https://github.com/codewithaashu/Social-Media-Client)
 
-- **Car Rental Platform** – Car booking platform with Razorpay  
-  🔗 [Live](https://carlands.vercel.app/) | [Code](https://github.com/codewithaashu/car-rental)
+#### 🚗 Car Rental Platform
+> A scalable car rental system using Razorpay, Hygraph & Cloudinary.  
+🔗 [Live Demo](https://carlands.vercel.app/) | [Source Code](https://github.com/codewithaashu/car-rental)
 
-- **MoviesMania** – MEAN stack movie platform  
-  🔗 [Live](https://moviessmania.netlify.app/) | [Code](https://github.com/codewithaashu/Movies-Website)
+#### 🎬 MoviesMania – MEAN stack movie platform  
+> Dynamic movie platform allowing users to browse, upload, and download movies with seamless performance using the MEAN stack.
+  🔗 [Live Demo](https://moviessmania.netlify.app/) | [Source Code](https://github.com/codewithaashu/Movies-Website)
 
 ---
 
