@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ashish Ranjan 👋</h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🎓 MCA Student | 🌐 MERN Stack Enthusiast
+  💻 Full Stack Developer | 🌐 MERN Stack Enthusiast
 </p>
 
 <!-- CONTACT BUTTONS -->
