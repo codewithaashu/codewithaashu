@@ -12,12 +12,11 @@
   <a href="https://leetcode.com/u/codewithaashu/"><img src="https://img.shields.io/badge/LeetCode-codewithaashu-orange?style=for-the-badge&logo=leetcode"></a>
 </p>
 
----
-
 <!-- ANIMATED SKILL CARD -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="65%" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithaashu&label=Profile%20views&color=0e75b6&style=flat" alt="codewithaashu" /> </p>
 
 ---
 
@@ -90,6 +89,14 @@
 </p>
 
 ---
+### 👨‍💻 LeetCode Activity
+<p align="center">
+  <a href="https://leetcode.com/u/codewithaashu/">
+    <img src="https://leetcard.jacoblin.cool/codewithaashu?theme=dark&font=Noto%20Sans%20JP&ext=activity" alt="Leetcode activity">
+  </a>
+</p>
+
+---
 
 ### 🚀 Featured Projects
 
@@ -123,7 +130,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithaashu&theme=onestar&no-frame=true&no-bg=true" />
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithaashu" alt="codewithaashu" /></a> 
 </p>
 
 ---
